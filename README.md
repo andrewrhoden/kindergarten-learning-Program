@@ -1,4 +1,6 @@
 Kindergarten Learning Program
+
+
 Task
 
 The goal of the Kindergarten Learning Program is to provide an interactive learning environment for young learners to practice math and sight words. The program aims to enhance their math skills and recognition of common words in a fun and engaging way. The primary objective is to create a user-friendly interface for learners while fostering positive learning attitudes and interactions.
@@ -6,6 +8,7 @@ The goal of the Kindergarten Learning Program is to provide an interactive learn
 Requirements
 
 Problem Description:
+
 The program aims to facilitate math and sight word practice for young learners.
 Input Data:
 Learners interact with the program by entering their names and responding to practice questions.
@@ -19,6 +22,7 @@ Feedback provided to learners includes updates on their math and sight word mast
 Inspiration
 
 Why Solve This Problem:
+
 The program aims to support early childhood education by providing an engaging platform for math and sight word practice.
 Data Sources:
 Predefined sets of words within the program serve as the primary data source.
@@ -30,6 +34,7 @@ Working Through Specific Examples
 Scenario 1: Learner Math Practice
 
 Input Data:
+
 Learner inputs their first name (e.g., "John").
 Steps to Solve:
 Program prompts learner to select math practice from the main menu.
@@ -44,6 +49,8 @@ Learner completes math practice session, with updated math mastery score.
 Scenario 2: Sight Words Practice
 
 Input Data:
+
+
 Learner inputs their first name (e.g., "Andy").
 Steps to Solve:
 Program prompts learner to select sight words practice from the main menu.
@@ -52,5 +59,6 @@ Learner types the missing letter (e.g., "s").
 Program provides feedback on correctness of response.
 Steps 2-4 repeated for a total of 10 questions.
 Program updates learner's profile.
+
 Result:
 Learner completes sight words practice session, with updated mastery profile.
